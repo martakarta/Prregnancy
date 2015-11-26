@@ -1,3 +1,3 @@
 # Prregnancy
 
-martakarta.github.io/Prregnancy
+http://martakarta.github.io/Prregnancy
