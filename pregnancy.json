@@ -2,26 +2,34 @@
     "preg": [
         {
             "week": 3,
-            "fruit": "Poppyseed"
+            "fruit": "Poppyseed",
+             "inches": 0,
+            "pounds": 0
         },
         {
             "week": 4,
-            "fruit": "Poppyseed"
+            "fruit": "Poppyseed",
+             "inches": 0,
+            "pounds": 0
         },
         {
             "week": 5,
             "fruit": "Lentil",
-            "inches": 0.13
+            "inches": 0.13,
+            "pounds": 0
         },
         {
             "week": 6,
             "fruit": "Peanut",
-            "inches": 0.75
+            "inches": 0.75,
+            "pounds": 0
+
         },
         {
             "week": 7,
             "fruit": "Raspberry",
-            "inches": 1.1
+            "inches": 1.1,
+            "pounds": 0
         },
         {
             "week": 8,
